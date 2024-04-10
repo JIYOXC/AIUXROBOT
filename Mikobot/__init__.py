@@ -125,7 +125,7 @@ else:
     DEL_CMDS = Config.DEL_CMDS
     EVENT_LOGS = Config.EVENT_LOGS
     INFOPIC = Config.INFOPIC
-    BAN_STICKER = Config.BAN_STICKER
+    #BAN_STICKER = Config.BAN_STICKER
     LOAD = Config.LOAD
     MONGO_DB_URI = Config.MONGO_DB_URI
     NO_LOAD = Config.NO_LOAD
