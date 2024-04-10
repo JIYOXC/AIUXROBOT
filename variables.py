@@ -17,7 +17,7 @@ class Config(object):
     DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -100206076690
+    EVENT_LOGS = -1002060766901
     MESSAGE_DUMP = -1002060766901
 
     # MongoDB configuration
